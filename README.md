@@ -1,4 +1,4 @@
 # PHP
 PHP projekti
 
-(gotovo)Svi moji dosadasnji PHP projekti.
+(gotovo)svi moji dosadasnji PHP projekti.
