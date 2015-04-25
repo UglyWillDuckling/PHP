@@ -1,0 +1,596 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lastname",
+				"lastname"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ly",
+				"list-style-type"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"nav",
+				"nav-background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"i",
+				"z-index"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"s",
+				"serif"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"session_",
+				"session_cache_expire"
+			],
+			[
+				"session_u",
+				"session_unset"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"o",
+				"onchange	Attr"
+			],
+			[
+				"On",
+				"onchange	Attr"
+			],
+			[
+				"tot",
+				"total_cost"
+			],
+			[
+				"shi",
+				"shipping_cost"
+			],
+			[
+				"ere",
+				"ereg_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Apache24/htdocs/cape.php",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 143.0,
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sync99/Desktop/Zebra_Session-master/Zebra_Session-master/README.md",
+		"/C/Apache24/htdocs/huston.php",
+		"/C/Users/sync99/Desktop/Zebra_Session-master/Zebra_Session-master/readme.txt",
+		"/C/Users/sync99/Desktop/Zebra_Session-master/Zebra_Session-master/Zebra_Session.php",
+		"/C/Apache24/htdocs/youbito/php/scripts/connect.php",
+		"/C/Apache24/htdocs/youbito/index.php",
+		"/C/Apache24/htdocs/youbito/parts/header.php",
+		"/C/Apache24/htdocs/youbito/php/class/Zebra_Session.php",
+		"/C/Apache24/htdocs/youbito/php/scripts/login.php",
+		"/C/Users/sync99/Desktop/New Text Document.txt",
+		"/C/Apache24/htdocs/youbito/css/sass/partials/main-container.scss",
+		"/C/Apache24/htdocs/youbito/css/sass/partials/containers.scss",
+		"/C/Apache24/htdocs/youbito/php/class/DB.php",
+		"/C/Apache24/htdocs/youbito/php/class/validate.php",
+		"/C/Apache24/htdocs/youbito/css/sass/partials/nav.scss",
+		"/C/Apache24/htdocs/youbito/.sassbuilder-config.json",
+		"/C/Apache24/htdocs/youbito/css/css/partials/nav.css",
+		"/C/Apache24/htdocs/youbito/css/sass/variables/variables.scss",
+		"/C/Apache24/htdocs/youbito/css/sass/global.scss",
+		"/C/Users/sync99/Desktop/SassBuilder-master/SassBuilder-master/README.md",
+		"/C/Users/sync99/Desktop/SassBuilder-master/SassBuilder-master/Default (Windows).sublime-keymap",
+		"/C/Users/sync99/Desktop/SassBuilder-master/SassBuilder-master/Side Bar.sublime-menu",
+		"/C/Users/sync99/Desktop/SassBuilder-master/SassBuilder-master/SassBuilder.py",
+		"/C/Apache24/htdocs/youbito/parts/footer.php",
+		"/C/Apache24/htdocs/youbito/php/functions/autoload.php",
+		"/C/Apache24/htdocs/youbito/php/include/basic_includes.php",
+		"/C/Apache24/htdocs/youbito/php/templates/seska.php",
+		"/C/Apache24/htdocs/youbito/php/templates/tryME.php",
+		"/C/Apache24/htdocs/youbito/php/templates/includes.php",
+		"/C/Apache24/htdocs/youbito/php/connect.php",
+		"/C/Apache24/htdocs/youbito/php/templates/New Text Document.txt",
+		"/C/Apache24/htdocs/youbito/php/functions/nove funkcije.txt",
+		"/C/Apache24/htdocs/youbito/php/neccss_classes.php",
+		"/C/Apache24/htdocs/temp/css/style-desktop.css",
+		"/C/Apache24/htdocs/temp/css/style.css",
+		"/C/Apache24/htdocs/temp/index.html",
+		"/I/_php/collapse.html",
+		"/C/Users/sync99/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/I/_php/rusi.css",
+		"/C/Users/sync99/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Sublime Text 3.lnk",
+		"/C/Apache24/htdocs/mobile/css/sass/partials/main-container.scss",
+		"/C/Apache24/htdocs/mobile/css/sass/partials/nav.scss",
+		"/C/Apache24/htdocs/mobile/css/sass/partials/containers.scss",
+		"/C/Apache24/htdocs/mobile/toka - Copy.php",
+		"/C/Apache24/htdocs/mobile/css/sass/variables/variables.scss",
+		"/I/_php/next project/nove stvari.txt",
+		"/C/Apache24/htdocs/function/nove funkcije.txt",
+		"/I/_php/main.css",
+		"/C/Apache24/htdocs/function/Pages.php",
+		"/I/_php/index.html",
+		"/C/Apache24/htdocs/index.html",
+		"/I/_php/phpProjects/forum1/function/Pages.php",
+		"/C/Apache24/htdocs/mobile/css/sass/placeholders.scss",
+		"/C/Apache24/htdocs/mobile/New Text Document.txt",
+		"/C/Apache24/htdocs/mobile/toka - Copy.html",
+		"/I/_php/mobile/buttons.html",
+		"/I/_php/mobile/buttonCss.css",
+		"/I/_php/mobile/buttonCss - Copy.css",
+		"/I/_php/mobile/buttonCss.txt",
+		"/C/Apache24/htdocs/mobile/css/sass/partials/all.scss",
+		"/C/Users/sync99/Desktop/session2db-master/session2db-master/install/install.txt",
+		"/C/Users/sync99/Desktop/Zebra_Session-master/Zebra_Session-master/install/install.txt",
+		"/C/Apache24/htdocs/mobile/css/sass/partials/side-content.scss",
+		"/C/Users/sync99/Desktop/asd.html",
+		"/C/Apache24/htdocs/main.css",
+		"/I/_php/nav_bar/css/sass/partials/main-container.scss",
+		"/C/Apache24/htdocs/mobile/css/global.css",
+		"/I/_php/nav_bar/css/sass/partials/containers.scss",
+		"/I/_php/nav_bar/css/sass/variables/variables.scss",
+		"/I/_php/nav_bar/css/sass/placeholders.scss",
+		"/I/_php/nav_bar/toka - Copy.html",
+		"/I/_php/nav_bar/css/sass/partials/nav.scss",
+		"/I/_php/nav_bar/css/sass/partials/all.scss",
+		"/I/_php/nav_bar/toka.html",
+		"/I/_php/nav_bar/css/sass/partials/side-content.scss",
+		"/C/Apache24/htdocs/templates/header.php",
+		"/I/_php/side-bar/main.css",
+		"/I/_php/side-bar/index.html",
+		"/I/_php/nav_bar/css/sass/mixins.scss",
+		"/I/_php/nav_bar/css/sass/global.scss",
+		"/I/_php/nav_bar/css/css/variables/variables.css",
+		"/I/_php/nav_bar/css/global.css",
+		"/I/_php/nav_bar/css/css/global.css",
+		"/I/_php/nav_bar/css/sass/variables/all.scss",
+		"/I/_php/nav_bar/index.html",
+		"/C/Users/sync99/Desktop/source/cssmenu/styles.css",
+		"/I/_php/nav_bar/css/sass/variables/fonts.scss",
+		"/I/_php/nav_bar/css/sass/sass file.scss",
+		"/C/Users/sync99/Desktop/sass-textmate-bundle-master/sass-textmate-bundle-master/README.md",
+		"/I/_php/nav_bar/css/body.scss",
+		"/C/Users/sync99/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/I/_php/newProj/css/global",
+		"/I/_php/newProj/css/global.css",
+		"/C/Apache24/htdocs/style2.css",
+		"/C/Users/sass/css/styles/helpers/_variables.scss",
+		"/C/Users/sass/css/styles/stil.scss",
+		"/C/Users/sync99/Documents/main.scss",
+		"/C/Users/sass/css/styles/helpers/main.scss",
+		"/C/Users/sass/css/stil.css",
+		"/C/Users/sass/css/styles/stil.css",
+		"/C/Users/New folder/humans.txt",
+		"/C/Users/New folder/robots.txt",
+		"/C/Users/sass/css/styles/test.html",
+		"/C/Users/sass/css/styles/modules/_all.scss",
+		"/C/Users/sass/css/styles/helpers/functions.scss",
+		"/C/Users/sass/css/styles/helpers/_all.scss",
+		"/C/Users/sass/css/styles/base/_typography.scss",
+		"/C/Users/sass/test.html",
+		"/C/Users/sass/css/styles/base/all.scss",
+		"/C/Users/sass/css/styles/helpers/_variables.txt",
+		"/C/temp/stil.scss",
+		"/C/temp/main.css",
+		"/C/temp/stil.css",
+		"/C/Users/sass/stil.css",
+		"/C/Users/sass/style.css",
+		"/C/Users/sass/stil.txt",
+		"/C/Users/sync99/Desktop/produce.txt",
+		"/C/produce.txt",
+		"/C/Users/sync99/Desktop/New Text Document (2).txt",
+		"/C/Users/sync99/Desktop/source/cssmenu/tovar.html",
+		"/C/Users/sync99/Desktop/source/cssmenu/index.html",
+		"/C/Users/sync99/Desktop/AddTrustExternalCARoot-2048.pem.txt",
+		"/C/Apache24/htdocs/webpage/awesome.html",
+		"/C/Apache24/t.html",
+		"/C/Users/sync99/Desktop/blueprint-css-master/blueprint-css-master/README.textile",
+		"/C/Users/sync99/Desktop/blueprint-css-master/blueprint-css-master/TUTORIAL.textile",
+		"/C/Users/sync99/Desktop/wordpress-4.1-hr/wordpress/procitajme.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search",
+			"form",
+			"search",
+			"hideSubmit",
+			"submit",
+			"\");\n",
+			"(\"\");",
+			"channel",
+			"Subscribe",
+			"channel",
+			"Subscribe",
+			"channel",
+			"in",
+			"							",
+			"							 	",
+			"Best",
+			"channel",
+			"}",
+			"body {\n	\n	margin: 0;\n	padding: 0;\n	background-color: #666;\n\n}",
+			"	\n",
+			">\";\n",
+			"}\";\n",
+			");\n",
+			"SnowMan",
+			";\n",
+			"href",
+			"a",
+			"transition",
+			"height",
+			"content",
+			"75ms",
+			"	        \n",
+			"shadow",
+			"box",
+			"FFF",
+			"border",
+			"red",
+			"delete",
+			"STATEMENTS",
+			"PREPARED STATEMENTS",
+			"1C4D8C",
+			";	",
+			"extension",
+			"style",
+			"		\n",
+			"error",
+			");\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sNowMangaming"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Apache24/htdocs/cape.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sublimeSass.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
