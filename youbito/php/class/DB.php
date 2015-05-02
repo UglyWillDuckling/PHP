@@ -27,6 +27,7 @@
 			public static function getInstance() 
 			{				
 				if(!isset(self::$_instance)) {
+				//ako klasa nije jos niti jednom bila instancirana stvara se novi DB objekt
 					self::$_instance = new DB();
 				}
 				return self::$_instance;
