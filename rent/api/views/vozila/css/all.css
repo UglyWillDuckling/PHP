@@ -1,0 +1,14 @@
+
+
+#main_wrapper{
+
+	position: fixed;
+	padding: 0 8px 0 10px;
+	margin-left: 0;
+	background: #F6F6F6;
+}
+
+aside.col-md-10 {
+
+	min-height: 400px;
+}

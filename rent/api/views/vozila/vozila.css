@@ -1,0 +1,55 @@
+.main_container{
+	
+	margin-top: 5px;
+}
+
+
+#main_wrapper{
+
+	margin-left: 10px;
+	
+	//position: fixed;
+}
+
+#side_wrapper{
+
+	margin-left: 15px;
+}
+
+.float_left{
+
+	float: left;
+}
+
+.inline_slika{
+
+	display: inline-block;
+}
+
+.list_car{
+
+	overflow: auto;
+}
+
+.carInfo{
+
+	margin-left:205px;
+}
+
+.img_wrapper_iznajmi {
+
+	width: 200px;
+}
+
+.img_wrapper_right {
+	
+	position: relative;
+	top: -40px;
+	float: right;
+	width: 260px;
+}
+
+li{
+
+	padding-bottom: 3px;
+}

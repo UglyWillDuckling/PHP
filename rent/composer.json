@@ -1,0 +1,25 @@
+{
+	"require-dev": {
+        "fzaninotto/faker": "~1.4"
+    },
+    "autoload": {
+
+    	"psr-4": {
+    		"Tricky": "api/library"
+    	},
+		"classmap": [
+			"api/lib/Bootstrap",
+			"api/lib/Validation",
+			"api/lib/User",
+			"api/lib/Database",
+			"api/lib/helpers/Request",
+			"api/lib/helpers/Hash",
+			"api/lib/Rezervacija"
+		]   
+	},
+    "require": {
+        "twig/twig": "~1.0",
+        "ircmaxell/random-lib": "~1.1",
+        "alexgarrett/violin": "2.*"
+    }
+}

@@ -1,0 +1,61 @@
+.list_zaposlenici{
+
+	padding: 0;
+}
+
+
+.employ_info{
+
+	margin-left: 250px;
+	padding-left: 10px;
+	font-size: 1.3em;
+
+	font-weight: 600;
+}	
+
+.employ_info hr{
+
+	margin-bottom: 10px;
+}
+	
+.employ_img
+{
+float: left;
+height:190px;
+width: 250px;
+
+}
+
+.employ_img img{
+
+	width: 100%;
+	height: inherit;
+}
+
+.user_info{
+
+	//border-bottom: 1px solid;
+}
+
+.fired{
+
+	color: red;
+}
+
+.zaposlenik{
+
+	margin-bottom: 20px;
+	background-color: #E1E0E0;
+	padding: 5px;
+	font-size: 0.85em;
+	  overflow: auto;
+}
+
+.side_form{
+
+	padding: 10px;
+	font-size: 0.95em;
+	background-color:#F3F3F3;
+}
+
+

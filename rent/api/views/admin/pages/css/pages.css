@@ -1,0 +1,268 @@
+
+	.col-md-4{
+
+		width: 32.4%;
+	}
+	.arg{
+
+		margin-bottom: 10px;
+	    padding: 4px 4px;
+	    margin-bottom: 2px;
+	    border-radius: 9px;
+	    background: #F2F2F2;
+
+	}
+
+	.arguments{
+
+		padding-bottom: 10px;
+		padding: 10px;
+		min-height: 200px;
+		max-height: 200px;
+		overflow: auto;
+	}
+
+
+	.btn-file {
+	  position: relative;
+	  overflow: hidden;
+	}
+
+	.btn-file input[type=file] {
+	  position: absolute;
+	  top: 0;
+	  right: 0;
+	  min-width: 100%;
+	  min-height: 100%;
+	  font-size: 100px;
+	  text-align: right;
+	  filter: alpha(opacity=0);
+	  opacity: 0;
+	  background: red;
+	  cursor: inherit;
+	  display: block;
+	}
+
+	.save_btn{
+
+		position: absolute;
+		left: 80px;
+	}
+
+	.del_page_btn{
+
+		position: absolute;
+		right: 53px;
+	}
+
+	.add_arg_btn{
+
+		position: absolute;
+		bottom: 0;
+		right: 0;
+	}
+
+	#pages{
+
+		background: #F7F7F7;
+		overflow:auto;
+		padding: 5px;
+		min-height: 40px;
+	}
+
+	.page{
+
+		background: #fff;
+		margin-right: 10px;
+		margin-bottom: 35px;
+		padding: 5px;
+		padding-top: 45px;
+		position: relative;
+		overflow: hidden;
+		min-height: 662px;
+		max-height: 662px;
+	}
+
+	.page:hover>.dropdown{
+
+		top: -40px;
+	}
+
+	.dropdown{
+		text-align: center;
+		top: -80px;
+		position: relative;
+		transition: 260ms ease;
+	}
+
+
+
+	.img_file{
+
+		margin-top: 6px;
+	}
+
+	.slika2{
+
+		max-height: 195px;
+		width: 100%;
+	}
+
+	.argInfo{
+
+		display:none;
+		position:fixed;
+		
+		top: 250px;
+		left: 360px;
+
+		background: #B31111;
+		padding: 12px;    
+		border-radius: 13px;
+		color: #fff;
+
+	}
+
+	.argInfo>input, select{
+
+		color: black;
+	}
+
+	.show{
+
+		display: block;
+		z-index: 10;
+	}
+
+	.add_arg_btn{
+
+		float: right;
+		positon: absolute;
+		bottom: 0;
+	}
+
+	
+	.save_args{
+
+		float: left;
+		positon: absolute;
+		bottom: 0;
+	}
+
+	.arg_btn {
+
+		margin-left: 3px;
+		margin-right: 3px;
+		positon: absolute;
+		bottom: 0;
+	}
+
+	.argTitle{
+
+		min-width: 50px;
+		display:inline-block;
+	}
+
+	#greska{
+
+		color: #fff;
+		background: #B51D1D;
+		font-style: oblique;
+		padding: 5px 10px;
+	    font-size: 1.36em;
+	    font-family: Verdana, Geneva, sans-serif;
+	    display: none;
+
+	    border-radius: 13px;	
+	}
+	
+	#makniGresku
+	{
+		color: #C13F3F;
+	    background: #fff;
+
+	    padding: 1px 7px;
+	    border-radius: 15px;
+	    margin-top: 5px;
+
+	    display: inline-block;
+	    float: right;	   
+	    vertical-align: middle;
+	    box-sizing: border-box;
+
+	    font-weight: 600;
+	}
+
+	#makniGresku:hover{
+		cursor: pointer;
+	}
+	#error{
+		width: 85%;
+		display: inline-block;
+		margin: 5px 0;
+	}
+
+	#plus
+	{		
+	    color: #fff;
+	    background-color: #6AA9EE;
+	    font-size: 1.3em;
+	    border-radius: 12px;
+	    padding: 2px 8px;
+
+		float: right;
+	    display: inline-block;
+	    position: absolute;	    
+	    bottom: 6px;
+	    right: 17px;
+
+	    cursor: none;
+	}
+
+	.fileMsg{
+
+		display: inline-block;
+	}
+	
+	#naslov{
+
+		text-align: center;
+		font-family: fantasy, sans-serif;
+	}
+
+	.reqSpan{
+
+		font-size: 1.4em;
+		padding-left: 5px;
+		color: red;
+	}
+
+	#poruka{
+
+		background: green;
+		padding: 5px;
+		border-radius: 8px;
+
+		font-size: 1.3em;
+		color: #fff;
+
+		display: none;
+	}
+
+	#msg{
+
+		width: 85%;
+		display: inline-block;
+		margin: 0;
+		padding: 2px;
+
+	}
+
+	#makniPoruku{
+		float: right;
+	}
+
+	#makniPoruku:hover{
+		
+		cursor: pointer;
+	}
